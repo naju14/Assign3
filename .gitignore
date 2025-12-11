@@ -1,0 +1,25 @@
+# Build artifacts
+*.o
+*.exe
+*.a
+*.so
+*.dll
+
+# Test files
+*.table
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+test_expr
+test_assign3_1
+
