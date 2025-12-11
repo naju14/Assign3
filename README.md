@@ -1,8 +1,4 @@
-/************************************************************
- * Najira Getachew
- * CS525 - Advanced Database Organization
- * Storage Manager Implementation - Assignment 3
- ************************************************************/
+
 # Record Manager - Assignment 3
 
 A simple record manager implementation for managing tables with fixed schemas. Supports record insertion, deletion, updates, and conditional scans through a buffer pool interface.
